@@ -75,18 +75,19 @@ EncashYourGarden is an innovative platform designed for garden enthusiasts and f
 EncashYourGarden is more than just a platform—it's a thriving community for everyone passionate about gardening and fresh produce. Whether you're a seasoned gardener or just starting out, EncashYourGarden is the perfect place to share your journey and connect with others.
 
 Outputs
-## 
-## Login Page
-![image](https://github.com/Manikantan-S/FullStack-EncashYourGarden-/assets/111214511/c07a850c-00d5-4e7d-a7b2-2c206f3c5c6f)
-## Feed
-![image](https://github.com/Manikantan-S/FullStack-EncashYourGarden-/assets/111214511/c123f7e0-d55b-46c5-998f-460681571798)
-## Uploading a post
-![image](https://github.com/Manikantan-S/FullStack-EncashYourGarden-/assets/111214511/ab47741c-c78a-4737-8612-49d226a2f0a7)
-## Post uploaded
-![image](https://github.com/Manikantan-S/FullStack-EncashYourGarden-/assets/111214511/38df50f0-c616-4d74-880b-efd1def5ee11)
-## Comenting and like feature
-![image](https://github.com/Manikantan-S/FullStack-EncashYourGarden-/assets/111214511/3336ea73-fd8f-489d-8f9b-b2b7f8e21ccc)
-## Database Snap
-![image](https://github.com/Manikantan-S/FullStack-EncashYourGarden-/assets/111214511/b118614d-84ba-472b-bc2a-0779b9334f88)
+##
+![Screenshot 2024-07-09 004417](https://github.com/user-attachments/assets/214505fd-2b19-44ef-9ed3-07c789182f0d)
+
+![Screenshot 2024-07-09 004443](https://github.com/user-attachments/assets/7e042f53-2163-430d-96a4-f4b8d913cff5)
+
+![Screenshot 2024-07-09 004500](https://github.com/user-attachments/assets/4d28fa4c-6006-4c43-ba7c-8026b4659e04)
+
+![Screenshot 2024-07-09 004619](https://github.com/user-attachments/assets/dcc831e5-eba7-4eda-9dc9-32cd0b3041ec)
+
+![Screenshot 2024-07-09 004647](https://github.com/user-attachments/assets/a871f299-4c45-4f36-aa17-f04b1c419b78)
+![Screenshot 2024-07-09 004756](https://github.com/user-attachments/assets/3c3ddbec-14e5-4b1c-890f-f20448b93cec)
+
+![Screenshot 2024-07-09 011256](https://github.com/user-attachments/assets/51f71bfb-5af1-4e99-b8de-1e09834b185a)
+
 
 
