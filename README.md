@@ -2,14 +2,23 @@
 
 EncashYourGarden is an innovative platform designed for garden enthusiasts and fresh produce lovers. It provides a space where individuals can share their garden produce, connect with a community of like-minded people, and receive feedback and appreciation for their efforts.
 
+## Video Demo
+
+
+https://github.com/user-attachments/assets/d35a20d0-0d9d-4c7d-9dc9-c74cebbebfcc
+
+
 ## Key Features
 
-- **Post Your Produce**: Easily post about your garden produce, including pictures, descriptions, and cultivation tips.
-- **Like and Comment**: Show appreciation for others' produce and engage in meaningful conversations.
-- **Community Building**: Connect with gardeners and produce enthusiasts to share gardening tips and recipes.
-- **Discover New Ideas**: Explore posts from different regions and discover new produce varieties and techniques.
-- **Profile Customization**: Create a personalized profile to showcase your garden and gardening journey.
-- **Notifications**: Stay updated on interactions with likes and comments on your posts.
+
+- 🌱 **Post Your Produce**: Easily post about your garden produce, including pictures, descriptions, and cultivation tips.
+- 👍 **Like and Comment**: Show appreciation for others' produce and engage in meaningful conversations.
+- 🌍 **Community Building**: Connect with gardeners and produce enthusiasts to share gardening tips and recipes.
+- 💡 **Discover New Ideas**: Explore posts from different regions and discover new produce varieties and techniques.
+- 🖼️ **Profile Customization**: Create a personalized profile to showcase your garden and gardening journey.
+- 🔔 **Notifications**: Stay updated on interactions with likes and comments on your posts.
+
+- 🌐 **Multilingual GenAI Support**: GenAI chatbot powered by Mistral pipelined with IndicTrans2 transformer to support 22 Indic languages.
 
 ## Why EncashYourGarden?
 
